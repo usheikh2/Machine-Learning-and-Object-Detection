@@ -36,25 +36,10 @@ Pretrained Model:
 ### Implementation
 Here is what you can do to use this project:
   
-  - 1] Clone or Download [repository](https://github.com/usheikh2/daen690) from Github.
+  - 1] Clone or Download [repository](https://github.com/usheikh2/daen690) from Github to a Google Colab Drive (You must have Google Pro for this).
   
-  - 2] Open Google Colab and install the following packages:
-      
-         import tensorflow as tf
+  - 2] Run [Object Dection Model](https://github.com/usheikh2/daen690/blob/main/combine_object_detection.ipynb)
 
-          pip install lvis
+  - 3] Run [Model Evaluation](https://github.com/usheikh2/daen690/blob/main/Model_Evaluations.ipynb) to ouput model calculations and TensorBoard vsiauls.
 
-          pip install tensorflow.io
-
-          pip install tf-models-official
-   
-          pip uninstall opencv-python
-   
-          pip uninstall opencv-contrib-python
-   
-          pip uninstall opencv-contrib-python-headless
-   
-          pip3 install opencv-contrib-python==4.5.5.62
-
-  - 3] Copy and Paste files from this repo to the Google Colab Drive
   
