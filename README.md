@@ -1,4 +1,4 @@
-## Bob's Builders: [Construction Equipment Detection Repository](https://github.com/usheikh2/daen690)
+## Bob's Builders: [Construction Equipment Detection and TensorBoard Analysis](https://github.com/usheikh2/daen690)
 
 ### Table of Contents
 
